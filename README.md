@@ -1,6 +1,6 @@
 # Course: Operating Systems
 
-- __Project 1:__ Graphics Library
+- __Project 1:__ Graphics Library (lost)
 
 - __Project 2:__ Producer/Consumer solutions for race conditions
 
